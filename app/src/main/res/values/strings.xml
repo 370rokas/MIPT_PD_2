@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MIPT_PD_2</string>
+
+    <string name="result">Rezultatas: %1$d</string>
+    <string name="placeholder">Teksta veskite čia</string>
+    <string name="button">Skaičiuoti</string>
+    <string name="error">Negalim apskaičiuot tusčio teksto!</string>
+
+    <string-array name="choices">
+        <item>Sakiniai</item>
+        <item>Žodžiai</item>
+        <item>Skyryba</item>
+        <item>Skaičiai</item>
+    </string-array>
+</resources>
